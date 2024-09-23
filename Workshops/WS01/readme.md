@@ -1,4 +1,4 @@
-# Workshop #1: Dictionary
+w# Workshop #1: Dictionary
 
 In this workshop, you will create a dictionary application that will allow the client to find the definition(s) of a word in English. The application will load the list of words and their definitions from a text file; although the provided file is for English language (a version of [*The Gutenberg Webster's Unabridged Dictionary*](https://www.gutenberg.org/ebooks/673) in `csv` format), the application should work with dictionary in other languages.
 
